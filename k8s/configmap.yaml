@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: frontend
-data:
-  BASE_PATH: /k06a207bc8b7fa/frontend
