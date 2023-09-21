@@ -4,7 +4,7 @@ import Nav from './components/Nav';
 
 import Image from 'next/image'
 
-const basePath = process.env.BASE_PATH || "";
+const basePath = process.env.NEXT_APP_PATH || "";
 
 export default function Home() {
   return (
